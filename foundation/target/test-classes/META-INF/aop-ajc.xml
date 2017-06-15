@@ -1,0 +1,41 @@
+<aspectj>
+<aspects>
+<aspect name="com.equisettle.foundation.domain.CaseTypeDataOnDemand_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.MediatorTypeIntegrationTest_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.MediatorIntegrationTest_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.CaseNegotiationIntegrationTest_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.ClientDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.equisettle.foundation.domain.MediatorTypeDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.equisettle.foundation.domain.MediatorTypeIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.equisettle.foundation.domain.CountryIntegrationTest_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.ClientIntegrationTest_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.CountryDataOnDemand_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.CountryIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.equisettle.foundation.domain.MediatorDataOnDemand_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.CaseTypeIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.equisettle.foundation.domain.CaseNegotiationDataOnDemand_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.CaseDocumentDataOnDemand_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.CaseDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.equisettle.foundation.domain.CaseDataOnDemand_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.CaseStatusIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.equisettle.foundation.domain.ClientDataOnDemand_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.CaseStatusDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.equisettle.foundation.domain.CaseIntegrationTest_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.CaseDocumentIntegrationTest_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.MediatorIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.equisettle.foundation.domain.CaseDocumentDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.equisettle.foundation.domain.MediatorDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.equisettle.foundation.domain.CaseNegotiationDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.equisettle.foundation.domain.CaseTypeDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.equisettle.foundation.domain.CaseNegotiationIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.equisettle.foundation.domain.CaseStatusIntegrationTest_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.CaseIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.equisettle.foundation.domain.CaseStatusDataOnDemand_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.ClientIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.equisettle.foundation.domain.MediatorTypeDataOnDemand_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.CountryDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.equisettle.foundation.domain.CaseTypeIntegrationTest_Roo_Configurable"/>
+<aspect name="com.equisettle.foundation.domain.CaseDocumentIntegrationTest_Roo_IntegrationTest"/>
+</aspects>
+</aspectj>
+
